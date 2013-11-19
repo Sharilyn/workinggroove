@@ -1,0 +1,93 @@
+body {
+    padding: 0;
+}
+
+header {
+    background: url("../office_wideangle_blue.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    margin: 0;
+
+}
+
+#logotype {
+    font-family: 'Bigshot One', cursive;
+    font-size: 65px;
+    color: #D95818;
+    background: black;
+    border: 7px solid white;
+    border-radius: 100px;
+    position: absolute;
+    left: 100px;
+    margin-top: 75px;
+    padding: 25px;
+}
+
+nav {
+    text-align: center;
+    padding-top: 2px;
+    margin-top: 0;
+    background: #0e7173; /* Old browsers */
+background: -moz-linear-gradient(top,  #0e7173 0%, #70e4e6 65%, #bef3f4 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0e7173), color-stop(65%,#70e4e6), color-stop(100%,#bef3f4)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #0e7173 0%,#70e4e6 65%,#bef3f4 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #0e7173 0%,#70e4e6 65%,#bef3f4 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #0e7173 0%,#70e4e6 65%,#bef3f4 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #0e7173 0%,#70e4e6 65%,#bef3f4 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e7173', endColorstr='#bef3f4',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+
+nav ul {
+    padding: 15px;
+}
+
+nav ul li {
+    display: inline;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+body {
+    font-family: Verdana;
+}
+
+#main {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#main ul li {
+    padding: 2px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Bigshot One', cursive;
+    font-size: 36px;
+    color: #D95818;
+    margin-top: 70px;
+}
+
+h2 {
+    font-family: 'Oldenburg', cursive;
+    font-size: 20px;
+    color: #1f94ab;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0e839a;
+}
+
